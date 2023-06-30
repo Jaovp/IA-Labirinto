@@ -1,1 +1,1 @@
-Trabalho de Intêligencia Artifical utlizando o repositorio de Muhammad Ahsan Naeem (MAN1986) para comparação dos algoritmos de busca BFS, DFS e A-estrela na resolução de um labirinto
+Trabalho de Intêligencia Artifical utlizando o repositorio de Muhammad Ahsan Naeem (MAN1986) https://github.com/MAN1986/pyamaze para comparação dos algoritmos de busca BFS, DFS e A-estrela na resolução de um labirinto
